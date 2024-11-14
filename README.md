@@ -1,4 +1,4 @@
-#Implementation of Text Summarization
+# Implementation of Text Summarization
 <H3>NAME: Kathir VS</H3>
 <H3>REGISTER NO: 212221040075</H3>
 <H3>EX. NO.7</H3>
@@ -26,7 +26,6 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the original text.<br>
       - Generate and print the text summary using the  Text Summarization function<br>
 ### Program:
-#### Developed By: tamizh selvan - 212222230158
 ##### Importing NLTK for Text Processing 
 ```Python
 import nltk
