@@ -5,7 +5,7 @@
 <H3>DATE: 13/09/2024</H3>
 
 ### Aim: 
-To perform automatic text summarization using Natural Language Processing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :14-10-2024**<br>
+To perform automatic text summarization using Natural Language Processing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
 (NLP) techniques.
 ### Description:
 <p align="justify">
